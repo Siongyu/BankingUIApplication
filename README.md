@@ -10,12 +10,13 @@ Technology -
 - Android API level ```>= v29```
 
 ---
-
 Screenshots and recording of the application - 
 
 #1<br>
 <img height='500' src="https://github.com/Siongyu/BankingUIApplication/blob/main/Screenshots/302101806-99cc9e56-c89b-4553-8df5-94117330bc93.png" />
 
 #2<br>
+<img height='500' src="https://github.com/Siongyu/BankingUIApplication/blob/main/Screenshots/302101822-e82910b2-23b4-4d9f-a7d0-854836e56163.png" />
+
 
 [Screen_Record](https://github.com/Siongyu/BankingUIApplication/assets/21031725/d04188de-f3c1-44cc-9266-8db29eaf9a16)
